@@ -1,0 +1,39 @@
+{
+  "packageId": "com.hiltonferreira.bibliafidelidadeeverdade",
+  "host": "hiltonferreirapontes3.github.io",
+  "name": "Bíblia Sagrada — Fidelidade e Verdade",
+  "launcherName": "Bíblia F&V",
+  "display": "standalone",
+  "themeColor": "#FCFBF7",
+  "navigationColor": "#FCFBF7",
+  "backgroundColor": "#FCFBF7",
+  "enableNotifications": false,
+  "startUrl": "/MeuPWA-BibliaSagrada/",
+  "iconUrl": "https://hiltonferreirapontes3.github.io/MeuPWA-BibliaSagrada/icon-512.png",
+  "maskableIconUrl": "https://hiltonferreirapontes3.github.io/MeuPWA-BibliaSagrada/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "manifestUrl": "https://hiltonferreirapontes3.github.io/MeuPWA-BibliaSagrada/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": false,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://hiltonferreirapontes3.github.io/MeuPWA-BibliaSagrada/",
+  "minSdkVersion": 23,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://hiltonferreirapontes3.github.io/MeuPWA-BibliaSagrada/manifest.webmanifest",
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  }
+}
